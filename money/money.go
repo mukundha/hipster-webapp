@@ -16,7 +16,7 @@ package money
 
 import (
 	"errors"
-	pb "hipster-webapp/frontend/genproto"	
+	pb "github.com/mukundha/hipster-webapp/frontend/genproto"	
 )
 
 const (

@@ -28,8 +28,8 @@ import (
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 
-	pb "hipster-webapp/frontend/genproto"
-	"hipster-webapp/frontend/money"	
+	pb "github.com/mukundha/hipster-webapp/frontend/genproto"
+	"github.com/mukundha/hipster-webapp/frontend/money"
 )
 
 var (

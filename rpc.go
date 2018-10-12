@@ -22,8 +22,8 @@ import (
 	"io/ioutil"
 	"net/http"
 	"encoding/json"
-	pb "hipster-webapp/frontend/genproto"
-	"hipster-webapp/frontend/genproto"
+	pb "github.com/mukundha/hipster-webapp/frontend/genproto"	
+	"github.com/mukundha/hipster-webapp/frontend/genproto"
 	"github.com/pkg/errors"
 )
 
